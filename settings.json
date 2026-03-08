@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Lifesteal-pNny.aternos.me",
+    "ip": "Lifesteal-pNny.aternos.me:27207",
     "port": 27207,
     "version": "1.21.1"
   },
